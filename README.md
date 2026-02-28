@@ -5,6 +5,10 @@ A Unity3D tool and standalone model developed to support recognition of user-dra
 
 Below is a short demo video for another project called PicoTown, a mixed reality city-builder with a mechanic that utilizes DrawRec3D to match and transform user-created drawings to building assets.
 
+
+https://github.com/user-attachments/assets/3941bc14-382e-47dd-9632-a94113cd1e18
+
+
 ## Setup
 
 1. Install into a Unity project via UPM from the repository URL:
